@@ -1,5 +1,6 @@
 # Fatal_collisions_MachineLearning_python
 The pyhton file contains the code which has comments at every important step, and the dataset csv file is used as a dataset.
+
 •	Predicted the rates of Fatal collisions with the reference of past 10 years Fatal and Non-Fatal collisions dataset using machine learning algorithms in Python (NumPy, Pandas, Scikit-Learn). Carefully, looked at the contribution of different variables.
 •	Scaled and transformed 40% of data to improve the data processing and data quality.
 •	Applied feature engineering and statistical analysis to remove around 35% irrelevant and unnecessary variables.
